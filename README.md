@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavahuja2801" alt="raghavahuja2801" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/raghavahuja" target="blank"><img src="https://img.shields.io/twitter/follow/nitishahujaa?logo=twitter&style=for-the-badge" alt="raghavahuja" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raghavahuja" target="blank"><img src="https://img.shields.io/twitter/follow/raghavahuja?logo=twitter&style=for-the-badge" alt="raghavahuja" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Development of Data Driven Projects**
 
