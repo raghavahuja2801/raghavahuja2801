@@ -18,7 +18,7 @@
 - **LinkedIn: <a href="https://www.linkedin.com/in/raghavahuja2801/" target="blank">Raghav Ahuja</a>**
 
 
-- ⚡ Fun fact **I have played basketball at the state level**
+- ⚡ Fun fact **I have worked with the Indian government to make smart drones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
