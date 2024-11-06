@@ -17,15 +17,14 @@
 - 📫 How to reach me **Email: raghav_ahuja@sfu.cau**
 - **LinkedIn: <a href="https://www.linkedin.com/in/raghavahuja2801/" target="blank">Raghav Ahuja</a>**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FbOcc-w1cPeLdREM7V0rURF1eAsKirbB/view?usp=sharing](https://drive.google.com/file/d/1FbOcc-w1cPeLdREM7V0rURF1eAsKirbB/view?usp=sharing)
 
 - ⚡ Fun fact **I have played basketball at the state level**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nitishahujaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitishahujaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitishahuja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitishahuja/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nitishahuja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nitishahuja/" height="30" width="40" /></a>
+<a href="https://twitter.com/raghavahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavahuja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahuja-raghav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahuja-raghav/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/raghav2801/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/raghav2801/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
