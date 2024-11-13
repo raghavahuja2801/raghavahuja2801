@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React.js & Next.js**
 
-- 📫 How to reach me **Email: raghav_ahuja@sfu.cau**
+- 📫 How to reach me **Email: raghav_ahuja@sfu.ca**
 - **LinkedIn: <a href="https://www.linkedin.com/in/raghavahuja2801/" target="blank">Raghav Ahuja</a>**
 
 
